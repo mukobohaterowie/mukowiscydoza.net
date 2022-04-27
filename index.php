@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>PHP Test</title>
+    <title>Mukowiscydoza</title>
   </head>
   <body>
     <img src="image.jpg">
